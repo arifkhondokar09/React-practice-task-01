@@ -1,0 +1,114 @@
+ [
+      {
+        "id": 101,
+        "brand": "Aquafina",
+        "capacity": "1L",
+        "material": "Plastic",
+        "price": 1.50,
+        "available": true,
+        "imgUrl": "https://example.com/images/aquafina.jpg",
+        "countdownTime": 3600,
+        "offer": "Buy 1 Get 1 Free"
+      },
+      {
+        "id": 102,
+        "brand": "Bisleri",
+        "capacity": "500ml",
+        "material": "Plastic",
+        "price": 0.80,
+        "available": true,
+        "imgUrl": "https://example.com/images/bisleri.jpg",
+        "countdownTime": 1800,
+        "offer": "10% Off"
+      },
+      {
+        "id": 103,
+        "brand": "Evian",
+        "capacity": "750ml",
+        "material": "Glass",
+        "price": 2.50,
+        "available": false,
+        "imgUrl": "https://example.com/images/evian.jpg",
+        "countdownTime": 0,
+        "offer": "Out of Stock"
+      },
+      {
+        "id": 104,
+        "brand": "SmartWater",
+        "capacity": "1L",
+        "material": "Plastic",
+        "price": 2.00,
+        "available": true,
+        "imgUrl": "https://example.com/images/smartwater.jpg",
+        "countdownTime": 5400,
+        "offer": "Free Shipping"
+      },
+      {
+        "id": 105,
+        "brand": "Nestle Pure Life",
+        "capacity": "1.5L",
+        "material": "Plastic",
+        "price": 1.75,
+        "available": true,
+        "imgUrl": "https://example.com/images/nestle.jpg",
+        "countdownTime": 2700,
+        "offer": "15% Off"
+      },
+      {
+        "id": 106,
+        "brand": "Tassya",
+        "capacity": "600ml",
+        "material": "Glass",
+        "price": 2.20,
+        "available": false,
+        "imgUrl": "https://example.com/images/tassya.jpg",
+        "countdownTime": 0,
+        "offer": "Coming Soon"
+      },
+      {
+        "id": 107,
+        "brand": "Kinley",
+        "capacity": "1L",
+        "material": "Plastic",
+        "price": 1.40,
+        "available": true,
+        "imgUrl": "https://example.com/images/kinley.jpg",
+        "countdownTime": 3000,
+        "offer": "Flat ₹10 Off"
+      },
+      {
+        "id": 108,
+        "brand": "Himalayan",
+        "capacity": "750ml",
+        "material": "Glass",
+        "price": 3.00,
+        "available": true,
+        "imgUrl": "https://example.com/images/himalayan.jpg",
+        "countdownTime": 7200,
+        "offer": "Luxury Pack Deal"
+      },
+      {
+        "id": 109,
+        "brand": "Oxyrich",
+        "capacity": "1L",
+        "material": "Plastic",
+        "price": 1.60,
+        "available": true,
+        "imgUrl": "https://example.com/images/oxyrich.jpg",
+        "countdownTime": 1800,
+        "offer": "Limited Time Discount"
+      },
+      {
+        "id": 110,
+        "brand": "Bailey",
+        "capacity": "2L",
+        "material": "Plastic",
+        "price": 2.10,
+        "available": true,
+        "imgUrl": "https://example.com/images/bailey.jpg",
+        "countdownTime": 4000,
+        "offer": "Bulk Offer Available"
+      }
+    ]
+  
+  
